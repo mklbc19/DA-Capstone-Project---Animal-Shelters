@@ -28,6 +28,8 @@ Read TWO data files - I used 2 CSV files and 1 XLSX
 Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
 
 3. Visualize / Present your data. 
+Created a pie chart showing the different animal types each city took into their shelters.
+Created a bar graph showing the different outcomes for the animals brought into their shelters.
 
 4. Best practices: Enhance your project to a higher tier that will impress employers and help other programmers understand your project. Choose 2 from this table.
 
