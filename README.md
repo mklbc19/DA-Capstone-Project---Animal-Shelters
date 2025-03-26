@@ -1,4 +1,4 @@
-# DA-Capstone-Project---Animal-Shelters
+# Capstone Project - Animal Shelters
 Data Analysis Project
 ## Overview
 Welcome! Thank you for taking an interest in my project.  This analysis will compare the animal shelter intakes/outtakes between Louisville, KY and Dallas, TX.  After that, I am going to see how that compares to the nationwide numbers. I want to see if Louisville or Dallas was far off from each other in regards to the number of intakes and outtakes an animal shelter processes in one year.  I also want to see if there is a common trend with the type of intakes.  I assume that the larger intake/outtake numbers will be with cats and dogs, but is there one or the other that is consistent with another location? I then want to compare that to the nationwide numbers, cleaning that data to exhibit their respective states, Kentucky and Texas.   
@@ -41,18 +41,19 @@ Ensure that you have the following installed:
 Follow the following steps to run the project on your computer:
 1. Clone the repository: https://github.com/mklbc19/DA-Capstone-Project---Animal-Shelters.git to a directory for this project in your terminal.
 2. Within the project folder, run this command in the terminal: python -m venv venv
-3. Next install the required dependencies:  pip install -r requirements.txt
+3. Next, activate the environment by entering: source venv/Scripts/activate
+4. Next install the required dependencies:  pip install -r requirements.txt
 
 _Now, let's run the project!_
 
-4.  Run the file: CapstoneProjectCode.ipynb
+5.  Run the file: CapstoneProjectCode.ipynb (_Note: If you would like to view the Data Dictionary, run the file: DataDictionary.ipynb_)
 
-5. Lastly, once you are complete:  In order to get out of the environment, type the word "deactivate" into the terminal.
+6. Lastly, once you are complete:  In order to get out of the environment, type the word "deactivate" into the terminal.
 Great job! 
 
 
 ## Capstone Features List utilized
-Feature
+
 ***1. Loading data.*** 
 Feature: Read TWO data files (JSON, CSV, Excel, etc.).  - I used 2 CSV files and 1 XLSX
 
@@ -70,3 +71,4 @@ Feature: Utilize a virtual environment and include instructions in your README o
 Feature: Build a custom data dictionary and include it either in your README or as a separate document.
 
 ***5. Interpretation of your data.*** 
+Feature: Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
