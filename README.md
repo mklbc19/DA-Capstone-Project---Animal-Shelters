@@ -8,12 +8,14 @@ I am an avid lover of all animals, and feel that we can all learn something from
 
 ## Data
 I used three datasets in this project. Each lists numbers/incidences of intake and outakes.  I have one for Louisville, Dallas, and Nationwide.
+
 CSV's:
-Louisville Animal Shelter Data: https://data.louisvilleky.gov/datasets/louisville-metro-ky-animal-service-intake-and-outcome/about
-Dallas Animal Shelter Data: https://www.dallasopendata.com/Services/Dallas-Animal-Shelter-Data-Fiscal-Year-2022-2023/f77p-sgrc/about_data
+1. Louisville Animal Shelter Data: https://data.louisvilleky.gov/datasets/louisville-metro-ky-animal-service-intake-and-outcome/about
+
+2. Dallas Animal Shelter Data: https://www.dallasopendata.com/Services/Dallas-Animal-Shelter-Data-Fiscal-Year-2022-2023/f77p-sgrc/about_data
 
 XLSX: 
-Nationwide Animal Shelter Data: https://www.shelteranimalscount.org/data-request-free-download/
+3. Nationwide Animal Shelter Data: https://www.shelteranimalscount.org/data-request-free-download/
 
 ## Project Structure
 After reading in the data, I wanted to narrow each dataset to one particular year that all had in common, the 2022 year.  I cleaned each set to filter that out, and then based my graphs on some questions.
