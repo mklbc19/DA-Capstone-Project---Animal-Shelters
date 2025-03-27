@@ -40,7 +40,7 @@ Ensure that you have the following installed:
 ## Installation/Dependencies:
 Follow the following steps to run the project on your computer:
 1. Clone the repository: https://github.com/mklbc19/DA-Capstone-Project---Animal-Shelters.git to a directory for this project in your terminal.
-2. Within the project folder, run this command in the terminal: python -m venv venv
+2. Within the DA-Capstone-Project---Animal-Shelters folder, run this command in the terminal: python -m venv venv
 3. Next, activate the environment by entering: source venv/Scripts/activate
 4. Next install the required dependencies:  pip install -r requirements.txt
 
@@ -55,20 +55,31 @@ Great job!
 ## Capstone Features List utilized
 
 ***1. Loading data.*** 
+
 Feature: Read TWO data files (JSON, CSV, Excel, etc.).  - I used 2 CSV files and 1 XLSX
 
 ***2. Clean and operate on the data while combining them.*** 
+
 Feature: Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
 
 ***3. Visualize / Present your data.***
+
 Feature: Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
+
 -Created a pie chart showing the different animal types each city took into their shelters.
+
 -Created a bar graph showing the different outcomes for the animals brought into their shelters.
+
 -Created a bar graph showing the different intake numbers between Louisville and KY, Dallas and TX, and combined KY/TX numbers
 
 ***4. Best practices: Enhance your project to a higher tier that will impress employers and help other programmers understand your project.***
+
 Feature: Utilize a virtual environment and include instructions in your README on how the user should set one up
+
 Feature: Build a custom data dictionary and include it either in your README or as a separate document.
 
 ***5. Interpretation of your data.*** 
+
 Feature: Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
+
+Feature: Build a custom data dictionary and include it either in your README or as a separate document. This will only apply if your data set does not already have a data dictionary or if you’re building a custom data set. For an example, see the resources to the right.
