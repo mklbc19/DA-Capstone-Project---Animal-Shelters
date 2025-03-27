@@ -66,10 +66,8 @@ Feature: Clean your data and perform a pandas merge with your two data sets, the
 
 Feature: Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
 
--Created a pie chart showing the different animal types each city took into their shelters.
-
--Created a bar graph showing the different outcomes for the animals brought into their shelters.
-
+-Created a pie chart showing the different animal types each city took into their shelters.<br>
+-Created a bar graph showing the different outcomes for the animals brought into their shelters. <br>
 -Created a bar graph showing the different intake numbers between Louisville and KY, Dallas and TX, and combined KY/TX numbers
 
 ***4. Best practices: Enhance your project to a higher tier that will impress employers and help other programmers understand your project.***
