@@ -3,9 +3,6 @@ Data Analysis Project
 ## Overview
 Welcome! Thank you for taking an interest in my project.  This analysis will compare the animal shelter intakes/outtakes between Louisville, KY and Dallas, TX.  After that, I am going to see how that compares to the nationwide numbers. I want to see if Louisville or Dallas was far off from each other in regards to the number of intakes and outtakes an animal shelter processes in one year.  I also want to see if there is a common trend with the type of intakes.  I assume that the larger intake/outtake numbers will be with cats and dogs, but is there one or the other that is consistent with another location? I then want to compare that to the nationwide numbers, cleaning that data to exhibit their respective states, Kentucky and Texas.   
 
-## A little about me and why I chose this project
-I am an avid lover of all animals, and feel that we can all learn something from them.  I also feel like some get animals without the intent of keeping them for their lifetime, and I always wonder why. If I could have done college all over, I would have at least delved a little into being a veternarian. It often saddens me to see animals in shelters for any length of time.  My "if I won the lottery story" would be that I would open a farm and adopt as many animals from the shelter so that they can live out their days running around free. I currently have one near-18 year old dog named Bentley, and a 3 year old cat named Zero.
-
 ## Data
 I used three datasets in this project. Each lists numbers/incidences of intake and outakes.  I have one for Louisville, Dallas, and Nationwide.
 
@@ -67,7 +64,7 @@ Feature: Clean your data and perform a pandas merge with your two data sets, the
 Feature: Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
 -Created a pie chart showing the different animal types each city took into their shelters.
 -Created a bar graph showing the different outcomes for the animals brought into their shelters.
--Created a grouped bar chart showing the different intake numbers between Louisville and KY, Dallas and TX, and combined KY/TX numbers
+-Created a bar graph showing the different intake numbers between Louisville and KY, Dallas and TX, and combined KY/TX numbers
 
 ***4. Best practices: Enhance your project to a higher tier that will impress employers and help other programmers understand your project.***
 Feature: Utilize a virtual environment and include instructions in your README on how the user should set one up
